@@ -18,3 +18,7 @@ var set_little_red_text = function () {
 };
 
 setInterval(set_little_red_text, 10000);
+
+chrome.browserAction.onClicked.addListener(function() {
+	chrome.tabs.create({'url' : "https://www.facebook.com/events/510205582410097"});
+});
