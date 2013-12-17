@@ -1,4 +1,5 @@
 ## McHacks Counter
+Chrome extension that counts how many people joined the [McHacks facebook event](https://www.facebook.com/events/510205582410097/).
 
 ####Installation:
 
